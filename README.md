@@ -1,1 +1,1 @@
-# HapticBelt
+# Augmented Warfighter Awareness System
